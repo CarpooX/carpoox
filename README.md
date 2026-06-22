@@ -35,12 +35,9 @@ Carpoox aims to empower communities by helping products find new owners while re
 ## Product Showcase
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d02232d1-e40d-47a6-9594-97ae94b9a6cd" width="180"/>
-  <img src="https://github.com/user-attachments/assets/9c4194f4-9307-4e4b-a9ab-032f2fdea4d1" width="180"/>
-  <img src="https://github.com/user-attachments/assets/0e8e92aa-30c7-4a00-92b5-8f1729133987" width="180"/>
-  <img src="https://github.com/user-attachments/assets/aedd6c8f-cf71-469a-8bd7-a675f85b406d" width="180"/>
-  <img src="https://github.com/user-attachments/assets/3a04857e-d080-4afa-ae05-d8c9239592b4" width="180"/>
-  <img src="https://github.com/user-attachments/assets/9a5e8aeb-fc96-4b9b-8777-808398cd5713" width="180"/>
+  <img width="1774" height="887" alt="ban_2b" src="https://github.com/user-attachments/assets/947772cb-4e72-41fe-bdfc-37f9b2dcf207" />
+<img width="1748" height="900" alt="ban_3" src="https://github.com/user-attachments/assets/dd472659-46c0-452e-bd97-9d1f5d822ca2" />
+
 </p>
 
 ---
