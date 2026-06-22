@@ -3,6 +3,10 @@
 # Carpoox
 
 ### Buy Local. Sell Smart.
+<p align="center">
+  <img width="100%" alt="Carpoox Hero Banner"
+       src="https://github.com/user-attachments/assets/947772cb-4e72-41fe-bdfc-37f9b2dcf207" />
+</p>
 
 A modern marketplace built for seamless local buying and selling.
 
@@ -34,12 +38,24 @@ Carpoox aims to empower communities by helping products find new owners while re
 
 ## Product Showcase
 
-<p align="center">
-  <img width="1774" height="887" alt="ban_2b" src="https://github.com/user-attachments/assets/947772cb-4e72-41fe-bdfc-37f9b2dcf207" />
-<img width="1748" height="900" alt="ban_3" src="https://github.com/user-attachments/assets/dd472659-46c0-452e-bd97-9d1f5d822ca2" />
+<h2 align="center">Product Preview</h2>
 
+<p align="center">
+  <img width="100%" alt="Carpoox Banner"
+             src="https://github.com/user-attachments/assets/b64060e9-f38e-4cb0-8d5f-172252cd2a91" />
 </p>
 
+
+<br/>
+
+<h2 align="center">App Experience</h2>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5ca2207d-d21f-414d-8af2-d70bdf4ffb5f" width="220"/>
+  <img src="https://github.com/user-attachments/assets/068bfc60-ce30-433b-a472-8a771333aec7" width="220"/>
+  <img src="https://github.com/user-attachments/assets/1a2c2116-4877-4764-999c-9917965c37af" width="220"/>
+  
+</p>
 ---
 
 ## Key Features
