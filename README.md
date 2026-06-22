@@ -39,9 +39,6 @@ Carpoox aims to empower communities by helping products find new owners while re
   <img src="https://github.com/user-attachments/assets/c9c48eee-8332-4e3a-bce7-9ed4abd50b19" width="180"/>
   <img src="https://github.com/user-attachments/assets/41921c74-c84e-4f0b-ba6d-970a0273da54" width="180"/>
   <img src="https://github.com/user-attachments/assets/9c4194f4-9307-4e4b-a9ab-032f2fdea4d1" width="180"/>
-</p>
-
-<p align="center">
   <img src="https://github.com/user-attachments/assets/741fce53-b330-4734-ba60-0c916e55f0e9" width="180"/>
   <img src="https://github.com/user-attachments/assets/0e8e92aa-30c7-4a00-92b5-8f1729133987" width="180"/>
   <img src="https://github.com/user-attachments/assets/aedd6c8f-cf71-469a-8bd7-a675f85b406d" width="180"/>
