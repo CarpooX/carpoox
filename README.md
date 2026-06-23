@@ -36,8 +36,8 @@ Carpoox aims to empower communities by helping products find new owners while re
 
 ---
 
-## Product Showcase
-
+## Discover
+  
 <h2 align="center">Product Preview</h2>
 
 <p align="center">
@@ -56,6 +56,7 @@ Carpoox aims to empower communities by helping products find new owners while re
   <img src="https://github.com/user-attachments/assets/1a2c2116-4877-4764-999c-9917965c37af" width="220"/>
   
 </p>
+
 ---
 
 ## Key Features
