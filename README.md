@@ -10,7 +10,7 @@
 
 A modern marketplace built for seamless local buying and selling.
 
-[🌐 Website](https://carpooxofficial.web.app) • [📱 Indus App Store](https://www.indusappstore.com/apps/shopping/carpoox/com.carpoox.app) • [📱 Google Play](#)
+[🌐 Website](https://carpooxofficial.web.app) • [📱 Google Play](https://play.google.com/store/apps/details?id=com.carpoox.app) • [📱 Indus App Store](https://www.indusappstore.com/apps/shopping/carpoox/com.carpoox.app)
 
 </div>
 
@@ -163,7 +163,7 @@ https://carpooxofficial.web.app
 
 ### Mobile Application
 
-- Google Play Store (Coming Soon)
+- Google Play Store (Available)
 - Indus App Store (Available)
 
 ---
